@@ -1,0 +1,1 @@
+﻿package  com.d4b.cssconverter{			public class TransitionVO {				public var properties :PropertiesVO = new PropertiesVO;				public var delay			:Number = 0;		public var time 			:Number = 0;		public var ease				:String = 'linear';		public var frames			:Array = [];		public var frame			:Number =0;				public function TransitionVO() {					}			}	}

@@ -1,0 +1,26 @@
+
+@keyframes %%keyframes_name%% {
+%%keyframes%%
+}
+
+@-moz-keyframes %%keyframes_name%% {
+%%-moz-keyframes%%
+}
+
+@-webkit-keyframes %%keyframes_name%% {
+%%-webkit-keyframes%%
+}
+
+@-o-keyframes %%keyframes_name%% {
+%%-o-keyframes%%
+}
+
+%%classname%% {
+	display:block;
+
+	%%initial_frame%%
+	animation: %%keyframes_name%% %%duration%% infinite;
+	-moz-animation: %%keyframes_name%% %%duration%% infinite;
+	-webkit-animation: %%keyframes_name%% %%duration%% infinite;
+	-o-animation: %%keyframes_name%% %%duration%% infinite;
+}

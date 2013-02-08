@@ -1,0 +1,19 @@
+.d4b-animation{
+	display: block;
+	overflow: hidden;
+	width:  %%width%%px;
+	height: %%height%%px;
+
+	transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	-webkit-transform: translate3d(0,0,0);
+	
+	transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-webkit-transform-style: preserve-3d;
+
+}
+.d4b-animation img{
+	display: block;
+	position: absolute;
+}
