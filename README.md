@@ -10,10 +10,10 @@ Features:
 * Base templates fully customizable
 * Uses Translate3d which forces GPU acceleration.
 * Supports 3d positions, 3d rotation, and scale.
-* Can use Classic Tween or Motion Tween in Flash.
+* Supports Classic Tween or Motion Tween in Flash.
 * Open Source
 
 TODO:
-* Improve Teamplates loading.
+* Improve Teamplates loader.
 * Generated CSS need to be optimized.
 * Better GUI
