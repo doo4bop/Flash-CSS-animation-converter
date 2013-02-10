@@ -14,5 +14,6 @@ Features:
 * Open Source
 
 TODO:
-* Optimized generated CSS.
+* Improve Teamplates loading.
+* Generated CSS need to be optimized.
 * Better GUI
